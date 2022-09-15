@@ -1,0 +1,15 @@
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net6.0\SyntaxSugerExercise.exe
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net6.0\SyntaxSugerExercise.deps.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net6.0\SyntaxSugerExercise.runtimeconfig.json
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net6.0\SyntaxSugerExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\bin\Debug\net6.0\SyntaxSugerExercise.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.csproj.AssemblyReference.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.AssemblyInfoInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.AssemblyInfo.cs
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.csproj.CoreCompileInputs.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\refint\SyntaxSugerExercise.dll
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.pdb
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\SyntaxSugerExercise.genruntimeconfig.cache
+C:\Users\Pearl\OneDrive\Desktop\Repos\SyntaxSugerExercise\SyntaxSugerExercise\obj\Debug\net6.0\ref\SyntaxSugerExercise.dll
